@@ -1,0 +1,1 @@
+結合Python用於觀看Gimy串流的chrome extension
